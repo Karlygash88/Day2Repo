@@ -1,1 +1,2 @@
 
+We are able to push and pull in the changes from Atom to Github and vice versa.
